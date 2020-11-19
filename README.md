@@ -1,6 +1,8 @@
-# ShopeeIntegracaoPHP
+# Shopee Integracao com PHP
 
 Neste projeto irei disponibilizar com PHP puro, alguns exemplos de conexção e Curl com api publica do Martkplace Shopee.
+
+ATENÇÃO - Conteudo e Didatico, pode dar mais voltas que o necessario para fazer a mesma coisa, porém busco facilitar para iniciantes.
 
 
 ## Contatos
